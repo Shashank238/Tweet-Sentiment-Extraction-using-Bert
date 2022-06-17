@@ -2,10 +2,10 @@
 
 ## 📌 Introduction
 This is a NLP web application which is used to extract the sentiment word from the text or input entered by the user. 
-The dataset is obtained from kaggle competion.
+The dataset is obtained from kaggle competition.
 
 ## 🎯 Purpose of this Project
-Capturing sentiment in language is important in these times where 
+Capturing sentiment in language is important in these   times where 
 decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description is more important and extract it from the corpus.
 To create a model where it can extract the words from the tweets based on the sentiment and serving it to web application using flask framework.
 
