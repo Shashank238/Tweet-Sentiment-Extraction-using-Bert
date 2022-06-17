@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```sh
 mkdir weights
 ```
-[click_here_download](https://drive.google.com/drive/folders/1hUGaT6uG8qVvdqaMIcl0TV3lbZzFd_n2)
+[click_here_download](https://drive.google.com/file/d/1sc3M5CbacVgjQFnDoZ5YVo4anrxB606p/view?usp=sharing)
 place it in weights folder
 
 3. Run the application:
