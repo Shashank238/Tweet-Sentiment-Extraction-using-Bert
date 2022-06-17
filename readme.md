@@ -5,9 +5,9 @@ This is a NLP web application which is used to extract the sentiment word from t
 The dataset is obtained from kaggle competion.
 
 ## 🎯 Purpose of this Project
-Capturing sentiment in language is important in these times where
+Capturing sentiment in language is important in these times where 
 decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description is more important and extract it from the corpus.
-To create a model where it can extract the words from the tweets based on the sentiment and serving it to web application using flask.
+To create a model where it can extract the words from the tweets based on the sentiment and serving it to web application using flask framework.
 
 <p align="center">
   <img width="900" height="500" src="images/demo.png">
@@ -40,3 +40,5 @@ place it in weights folder
 ```sh
 python app.py
 ```
+
+
