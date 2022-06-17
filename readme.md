@@ -23,7 +23,7 @@ To create a model where it can extract the words from the tweets based on the se
 ## Installation Steps
 1. Clone the Repo by going to your local Git Client and pushing in the command:
 ```sh
-git clone https://github.com/Shashank238/Automatic_licence_plate_det_OCR
+git clone https://github.com/Shashank238/Tweet-Sentiment-Extraction-using-Bert.git
 ```
 2. Install the packages:
 ```sh
